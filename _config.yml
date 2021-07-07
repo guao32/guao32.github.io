@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Samuel De Spuches's site
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Samuel De Spuches
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Union College '22, Economics Major and Computer Science Minor"
+  email: samdespu@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username

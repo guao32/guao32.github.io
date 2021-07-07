@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-#Bio 
+# Bio 
 
 - Hello, I'm a Senior at Union College. My extra-academic interests are game-theory as it relates to games like poker and backgammon, art history, italian food exports and basketball. 
 

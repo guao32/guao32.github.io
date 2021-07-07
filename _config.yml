@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Samuel De Spuches
-  avatar: bio-photo.jpg
+  avatar: headshot.jpg
   bio: "Union College '22, Economics Major and Computer Science Minor"
   email: samdespu@gmail.com
   # Do not include the @ symbol in your Twitter username

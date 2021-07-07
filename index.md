@@ -5,6 +5,6 @@ menutitle: Home
 menuorder: 1
 ---
 
-## Current Interests and Projects:
+## Current Interests and Projectszzzzzszz:
 
 - Summer IDEas project at Union College
